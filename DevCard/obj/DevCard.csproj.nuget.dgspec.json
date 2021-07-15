@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ShoppingStore\\Shopping\\DevCard\\DevCard.csproj": {}
+  },
+  "projects": {
+    "E:\\ShoppingStore\\Shopping\\DevCard\\DevCard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ShoppingStore\\Shopping\\DevCard\\DevCard.csproj",
+        "projectName": "DevCard",
+        "projectPath": "E:\\ShoppingStore\\Shopping\\DevCard\\DevCard.csproj",
+        "packagesPath": "C:\\Users\\09156576576\\.nuget\\packages\\",
+        "outputPath": "E:\\ShoppingStore\\Shopping\\DevCard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\09156576576\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\ASP.NET Core - EJ2\\18.4.0.30\\NuGetPackages": {},
+          "D:\\Software\\stimulsoft\\Stimulsoft_Reports_AIO_2020.2.1_Downloadly.ir\\Stimulsoft Reports AIO 2020.2.1\\Nuget Patched Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
